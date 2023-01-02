@@ -1,0 +1,37 @@
+
+
+
+body{
+
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url("../images/sky.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.label-text{
+    font-weight: 600;
+}
+
+
+.contents-center{
+    text-align: center;
+}
+
+
+.hidden{
+    display:none;
+}
+
+
+
+#loading-icon{
+    height: 50px;
+    width: 50px;
+}
+
+
+
