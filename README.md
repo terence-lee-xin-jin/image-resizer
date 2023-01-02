@@ -1,10 +1,10 @@
-# image-resizer
-A simple application that resizes image
+# Simple Image Resizer
+A simple full-stack application that resizes image
 
-Author: Terence
+**Author:** Terence Lee Xin Jin
 
 ## Languages/Framework:
-  Back-end: Java, Spring Boot, Spring Web MVC
-  Front-end: HTML, CSS, JavaScript, jQuery, Bootstrap
+  **Back-end:** Java, Spring Boot, Spring Web MVC
+  **Front-end:** HTML, CSS, JavaScript, jQuery, Bootstrap
   
 
