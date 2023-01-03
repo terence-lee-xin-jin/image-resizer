@@ -46,12 +46,4 @@ public class ImageResizerController {
                 .body("Invalid percentageReductionOfImageSize value");
     }
 
-
-
-
-    @RequestMapping("/error")
-    public String error(Exception e, WebRequest request) {
-
-        return request.getContextPath();
-    }
 }
