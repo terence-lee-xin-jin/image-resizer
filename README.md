@@ -6,6 +6,5 @@ A simple full-stack application that resizes image
 ## Languages/Framework:
    **Back-end:** Java, Spring Boot, Spring Web MVC <br/>
    **Front-end:** HTML, CSS, JavaScript, jQuery, Bootstrap<br/>
-   **Unit Testing:** MSTestv2
-  
+
 
